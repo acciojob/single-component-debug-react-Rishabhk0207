@@ -1,9 +1,10 @@
 import React from 'react';
 
 function App(){
-  <div id ="main">
+ return( <div id ="main">
     <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
     </div>
+  );
 }
 
 
